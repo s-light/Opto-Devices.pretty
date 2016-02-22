@@ -1,0 +1,2 @@
+# Opto-Devices.pretty
+Optocoupler
